@@ -1,5 +1,5 @@
 # ds301-final-project
-DS 301 Project by Xikun Wang and He Li: a Multimodal humanitarina insight classifier 
+DS 301 Project: a Multimodal humanitarina insight classifier 
 ## Description of our project: 
 
 In the context of the disaster events, social platforms such as Twitter, Facebook become
