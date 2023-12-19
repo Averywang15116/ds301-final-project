@@ -21,7 +21,7 @@ We implemented the multimodal inspired by the pipeline in this research: https:/
 ## Result
 The final result of the BERT-BiLSTM + InvceptionV3 model shows the accuracy of about 0.82, and the F-1 score around 0.81. And the result of BERT-BiLSTM + MobileNetV2 achieves slightly better accuracy about 0.83 and F-1 score of 0.83.
 
-The model of running each files takes about 4 hours depending on your RAM storage. 
+The model of running each files takes about 4 hours depending on your RAM storage. Please refer to the link of the dataset https://github.com/firojalam/multimodal_social_media/blob/master/data/all_images_path.txt as it is too big to upload here. 
 
 
 
